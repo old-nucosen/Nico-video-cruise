@@ -9,10 +9,10 @@
 
 ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/NUCO-studio/Nico-video-cruise?style=for-the-badge)
 
-![Travis (.com)](https://img.shields.io/travis/com/NUCO-studio/Nico-video-cruise)
-![Requires.io](https://img.shields.io/requires/github/NUCO-studio/Nico-video-cruise)
-![GitHub all releases](https://img.shields.io/github/downloads/NUCO-studio/Nico-video-cruise/total)
-![GitHub](https://img.shields.io/github/license/NUCO-studio/Nico-video-cruise)
+[![Travis (.com)](https://img.shields.io/travis/com/NUCO-studio/Nico-video-cruise)](https://www.travis-ci.com/github/NUCO-studio/Nico-video-cruise)
+[![Requires.io](https://img.shields.io/requires/github/NUCO-studio/Nico-video-cruise)](https://requires.io/github/NUCO-studio/Nico-video-cruise/requirements/)
+[![GitHub all releases](https://img.shields.io/github/downloads/NUCO-studio/Nico-video-cruise/total)](https://github.com/NUCO-studio/Nico-video-cruise/releases)
+[![GitHub](https://img.shields.io/github/license/NUCO-studio/Nico-video-cruise)](https://github.com/NUCO-studio/Nico-video-cruise/blob/master/LICENSE)
 
 # Tags
 

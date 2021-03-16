@@ -44,11 +44,11 @@
 
 # Minimal Example
 
-### 単体実行
+## 単体実行
 
 `python3 -m nvcruise`
 
-### モジュールとして使用
+## モジュールとして使用
 
 ```python 
 import nvcruise

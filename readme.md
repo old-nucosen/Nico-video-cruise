@@ -1,3 +1,5 @@
+\[W.I.P.\]リリースまでしばらくお待ち下さい
+
 # ニコ動クルーズ
 
 ![logo](doc/logo.png)
@@ -18,7 +20,7 @@
 
 # Tags
 
-`niconico` `ニコ生` `python3`
+`niconico` `nicolive` `python3`
 
 # Demo
 

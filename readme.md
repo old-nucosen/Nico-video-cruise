@@ -1,5 +1,7 @@
 # ニコ動クルーズ
 
+![logo](doc/logo.png)
+
 <!-- # Short Description -->
 
 ニコ生クルーズの動画版です。<br />
@@ -20,7 +22,7 @@
 
 # Demo
 
-![Demo](resources/file-0.png)
+![Demo](doc/demo.png)
 
 # Advantages
 
